@@ -31,6 +31,8 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+    DOM stands for Document Object Model, and it is an object representation of the HTML elements on the webpage, with a "tree" structure for the nested elements. It acts as a bridge between the HTML and the browser, and can be used to manipulate the webpage directly in the browser.
+
 
 2. What is an event?
 
