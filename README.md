@@ -33,8 +33,8 @@ Edit this document to include your answers after each question. Make sure to lea
 1. What is the DOM?
     DOM stands for Document Object Model, and it is an object representation of the HTML elements on the webpage, with a "tree" structure for the nested elements. It acts as a bridge between the HTML and the browser, and can be used to manipulate the webpage directly in the browser.
 
-
 2. What is an event?
+    An event is any interaction a user has with a website, such as a click, hover, scroll, etc.
 
 3. What is an event listener?
 
