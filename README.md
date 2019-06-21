@@ -37,6 +37,7 @@ Edit this document to include your answers after each question. Make sure to lea
     An event is any interaction a user has with a website, such as a click, hover, scroll, etc.
 
 3. What is an event listener?
+    An event listener is put on an element and given a callback depending on the event type. When the event is triggered, the callback is run.
 
 4. Why would we convert a NodeList into an Array?
 
