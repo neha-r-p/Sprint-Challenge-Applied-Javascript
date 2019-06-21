@@ -40,6 +40,7 @@ Edit this document to include your answers after each question. Make sure to lea
     An event listener is put on an element and given a callback depending on the event type. When the event is triggered, the callback is run.
 
 4. Why would we convert a NodeList into an Array?
+    We would need to convert a NodeList to an Array to use Array methods. A NodeList is considered an Array-like object, and has access to the forEach method, but to use other array methods like .map and .reduce, it needs to be converted into an actual Array.
 
 5. What is a component?
 
